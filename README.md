@@ -101,11 +101,6 @@ Raw Data → Data Cleaning → Transformation → Analysis → Insights → Busi
 👉 [![Watch the video](https://img.youtube.com/vi/1922byylCSU/0.jpg)](https://youtu.be/1922byylCSU)
 ---
 
-## 📊 Presentation Slides
-👉 [View Project Presentation](https://drive.google.com/file/d/dummy-ppt-link/view)
-
----
-
 ## ⚠️ Note
 Dataset is not included due to best practices and data privacy.
 
