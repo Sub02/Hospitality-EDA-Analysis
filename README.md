@@ -87,8 +87,6 @@ Raw Data → Data Cleaning → Transformation → Analysis → Insights → Busi
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 ```bash
 src/
 ├── data_extraction.py
@@ -128,4 +126,4 @@ This project demonstrates a complete data analysis pipeline, from raw data handl
 **Shubhayan Kundu**  
 📊 Data Analyst | Python | SQL | Power BI | Excel
 
-🔗 LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/subhayan-kundu/)
+🔗 LinkedIn : [https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/subhayan-kundu/)
