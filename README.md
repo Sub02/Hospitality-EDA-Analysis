@@ -98,7 +98,7 @@ Raw Data → Data Cleaning → Transformation → Analysis → Insights → Busi
 - Direct channels (**online + offline**) contribute less revenue  
 - Indicates high dependency on third-party booking platforms  
 ## 🎥 Project Walkthrough
-👉 [Watch Full Project Explanation Video](https://youtu.be/dummy-video-link)
+👉 [Watch Full Project Explanation Video](https://youtu.be/1922byylCSU)
 
 ---
 
