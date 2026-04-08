@@ -87,15 +87,18 @@ Raw Data → Data Cleaning → Transformation → Analysis → Insights → Busi
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
 ```bash
 src/
 ├── data_extraction.py
 ├── data_cleaning.py
 ├── data_transformation.py
 ├── data_insights.py
+
 requirements.txt
 README.md
----
+```
 ## 📈 Data Insights & Visualizations
 
 ### 📊 Revenue Distribution by Booking Platform
