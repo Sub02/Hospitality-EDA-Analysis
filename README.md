@@ -81,14 +81,7 @@ Raw Data → Data Cleaning → Transformation → Analysis → Insights → Busi
 
 ## 📂 Project Structure
 
-src/
-├── data_extraction.py
-├── data_cleaning.py
-├── data_transformation.py
-├── data_insights.py
-
-requirements.txt
-README.md
+<pre> ```bash src/ ├── data_extraction.py ├── data_cleaning.py ├── data_transformation.py ├── data_insights.py requirements.txt README.md ``` </pre>
 
 
 ---
