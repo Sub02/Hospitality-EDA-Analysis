@@ -86,6 +86,17 @@ Raw Data → Data Cleaning → Transformation → Analysis → Insights → Busi
 
 ---
 
+## 📈 Data Insights & Visualizations
+
+### 📊 Revenue Distribution by Booking Platform
+
+![Revenue Distribution](outputs/booking_platform_distribution.png)
+
+### 🔍 Key Insights:
+- Majority revenue (~40%) comes from aggregated **"others"** category  
+- **MakeMyTrip (~20%)** is the strongest individual booking platform  
+- Direct channels (**online + offline**) contribute less revenue  
+- Indicates high dependency on third-party booking platforms  
 ## 🎥 Project Walkthrough
 👉 [Watch Full Project Explanation Video](https://youtu.be/dummy-video-link)
 
