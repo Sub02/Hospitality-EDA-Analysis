@@ -73,5 +73,6 @@ print(23439+3*9048)
 
 print(df_bookings.isnull().sum())
 
+
 ''' Only the ratings are showing null values & its completely fine because
  its not mandate for customers to give rating always after departure'''
