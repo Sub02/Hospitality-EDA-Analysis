@@ -7,23 +7,25 @@
 ---
 
 ## 🚀 Project Summary
-This project performs end-to-end Exploratory Data Analysis (EDA) on a hospitality dataset to uncover insights related to revenue, occupancy, and booking behavior. The goal is to simulate real-world business decision-making using data.
+This project performs end-to-end Exploratory Data Analysis (EDA) on a hospitality dataset to uncover actionable insights related to revenue, occupancy, and booking behavior.  
+
+It simulates real-world business decision-making by transforming raw data into meaningful, data-driven strategies.
 
 ---
 
 ## 🧠 Business Problem
-AtliQ Grands is a hotel chain operating across multiple cities in India. Due to increasing competition and inefficient data usage, they are facing challenges in revenue optimization and occupancy management.
+AtliQ Grands, a multi-city hotel chain in India, is facing challenges in revenue optimization and occupancy management due to increasing competition and underutilization of data.  
 
-This project aims to analyze their booking data and provide actionable insights.
+This project focuses on analyzing booking data to identify key trends and provide actionable insights to improve business performance.
 
 ---
 
 ## 🎯 Objectives
-- Analyze revenue trends across cities and hotel types  
-- Understand occupancy patterns  
+- Analyze revenue trends across cities and hotel categories  
+- Understand occupancy patterns and demand fluctuations  
 - Evaluate booking platform performance  
 - Detect and handle data quality issues  
-- Generate business insights for decision-making  
+- Generate actionable business insights for decision-making  
 
 ---
 
@@ -34,22 +36,26 @@ Raw Data → Data Cleaning → Transformation → Analysis → Insights → Busi
 
 ## 🧹 Data Cleaning
 - Removed invalid records (e.g., negative or zero guests)  
-- Handled missing values  
-- Detected and removed outliers using statistical methods (Standard Deviation)  
+- Handled missing values for better data consistency  
+- Detected and removed outliers using statistical techniques (Standard Deviation method)  
+
+👉 Ensured high data quality for reliable analysis.
 
 ---
 
 ## ⚙️ Feature Engineering
-- Created **Occupancy % column**  
+- Created a key KPI: **Occupancy Rate (%)**  
 - Merged multiple datasets (fact + dimension tables)  
-- Prepared data for analysis  
+- Transformed data into analysis-ready format  
+
+👉 Enabled performance comparison across cities and hotel categories.
 
 ---
 
 ## 📊 Key Analysis Performed
-- Revenue by hotel category  
-- Average rating by city  
-- Booking platform contribution  
+- Revenue analysis by hotel category  
+- Average customer ratings across cities  
+- Booking platform contribution to revenue  
 - Occupancy trends (weekday vs weekend)  
 - Monthly performance trends  
 
@@ -65,10 +71,10 @@ Raw Data → Data Cleaning → Transformation → Analysis → Insights → Busi
 ---
 
 ## 📈 Key Insights
-- Weekend occupancy is significantly higher than weekdays  
-- Luxury hotel categories generate the highest revenue  
-- Certain cities outperform others in both revenue and occupancy  
-- Booking platforms play a major role in revenue distribution  
+- Weekend occupancy is significantly higher than weekdays → clear demand pattern  
+- Luxury hotel categories generate the highest revenue → strong premium segment  
+- Certain cities outperform others in both revenue and occupancy → key markets identified  
+- Booking platforms play a major role in revenue distribution → high dependency on aggregators  
 
 ---
 
@@ -81,11 +87,15 @@ Raw Data → Data Cleaning → Transformation → Analysis → Insights → Busi
 
 ## 📂 Project Structure
 
-<pre> ```bash src/ ├── data_extraction.py ├── data_cleaning.py ├── data_transformation.py ├── data_insights.py requirements.txt README.md ``` </pre>
-
-
+```bash
+src/
+├── data_extraction.py
+├── data_cleaning.py
+├── data_transformation.py
+├── data_insights.py
+requirements.txt
+README.md
 ---
-
 ## 📈 Data Insights & Visualizations
 
 ### 📊 Revenue Distribution by Booking Platform
