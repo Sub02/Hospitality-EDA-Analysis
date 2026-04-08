@@ -103,3 +103,11 @@ Dataset is not included due to best practices and data privacy.
 
 ## 💡 Conclusion
 This project demonstrates a complete data analysis pipeline, from raw data handling to business insight generation. It reflects real-world analytical thinking and problem-solving skills required for data analyst roles.
+
+
+## 👤 Author
+
+**Shubhayan Kundu**  
+📊 Data Analyst | Python | SQL | Power BI | Excel
+
+🔗 LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/subhayan-kundu/)
