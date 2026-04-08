@@ -1,2 +1,112 @@
-# Hospitality-EDA-Analysis
-End-to-end EDA project on hospitality dataset
+# 🏨 Hospitality Data Analysis (EDA Project)
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+---
+
+## 🚀 Project Summary
+This project performs end-to-end Exploratory Data Analysis (EDA) on a hospitality dataset to uncover insights related to revenue, occupancy, and booking behavior. The goal is to simulate real-world business decision-making using data.
+
+---
+
+## 🧠 Business Problem
+AtliQ Grands is a hotel chain operating across multiple cities in India. Due to increasing competition and inefficient data usage, they are facing challenges in revenue optimization and occupancy management.
+
+This project aims to analyze their booking data and provide actionable insights.
+
+---
+
+## 🎯 Objectives
+- Analyze revenue trends across cities and hotel types  
+- Understand occupancy patterns  
+- Evaluate booking platform performance  
+- Detect and handle data quality issues  
+- Generate business insights for decision-making  
+
+---
+
+## 🔄 Data Workflow
+Raw Data → Data Cleaning → Transformation → Analysis → Insights → Business Recommendations  
+
+---
+
+## 🧹 Data Cleaning
+- Removed invalid records (e.g., negative or zero guests)  
+- Handled missing values  
+- Detected and removed outliers using statistical methods (Standard Deviation)  
+
+---
+
+## ⚙️ Feature Engineering
+- Created **Occupancy % column**  
+- Merged multiple datasets (fact + dimension tables)  
+- Prepared data for analysis  
+
+---
+
+## 📊 Key Analysis Performed
+- Revenue by hotel category  
+- Average rating by city  
+- Booking platform contribution  
+- Occupancy trends (weekday vs weekend)  
+- Monthly performance trends  
+
+---
+
+## ❓ Business Questions Solved
+- Which hotel category generates the highest revenue?  
+- Which city has the best occupancy performance?  
+- How does weekday vs weekend demand vary?  
+- Which booking platform contributes the most revenue?  
+- What are the trends in customer ratings?  
+
+---
+
+## 📈 Key Insights
+- Weekend occupancy is significantly higher than weekdays  
+- Luxury hotel categories generate the highest revenue  
+- Certain cities outperform others in both revenue and occupancy  
+- Booking platforms play a major role in revenue distribution  
+
+---
+
+## 🛠️ Tech Stack
+- Python (Pandas, NumPy)  
+- Matplotlib (Visualization)  
+- SQL concepts (for data understanding)  
+
+---
+
+## 📂 Project Structure
+
+src/
+├── data_extraction.py
+├── data_cleaning.py
+├── data_transformation.py
+├── data_insights.py
+
+requirements.txt
+README.md
+
+
+---
+
+## 🎥 Project Walkthrough
+👉 [Watch Full Project Explanation Video](https://youtu.be/dummy-video-link)
+
+---
+
+## 📊 Presentation Slides
+👉 [View Project Presentation](https://drive.google.com/file/d/dummy-ppt-link/view)
+
+---
+
+## ⚠️ Note
+Dataset is not included due to best practices and data privacy.
+
+---
+
+## 💡 Conclusion
+This project demonstrates a complete data analysis pipeline, from raw data handling to business insight generation. It reflects real-world analytical thinking and problem-solving skills required for data analyst roles.
