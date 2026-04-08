@@ -1,6 +1,6 @@
 # 🏨 Hospitality Data Analysis (EDA Project)
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Python](https://img.shields.io/badge/Python-3.14-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
